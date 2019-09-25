@@ -22,7 +22,7 @@ export default class Aboutme extends Component{
                         Hello! My name is Divyesh Rana, I am a Full-stack web developer based in New Jersey, USA.
                         I love to Graphics design and develop web applications. I am currently available for the full-time positions,
                         so If you are a recruiter and looking to hire a developer with a passion for learning new technology,
-                        feel free to email me at divyeshrana66@yahoo.in.
+                        feel free to email me at divyeshrana9775@gmail.com.
                         </p>
                         </div>
                         <h4 class="css-typing" style={{color: "grey"}}>A little more…</h4>

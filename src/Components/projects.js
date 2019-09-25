@@ -3,6 +3,9 @@ import {Tabs, Tab, Grid, Cell, Card, CardTitle, CardActions, Button, CardMenu, C
 import Calculator from "../Images/calculator.PNG";
 import drum from "../Images/drum.png";
 import clock from "../Images/clock.png";
+import hover from "../Images/hover.png";
+import panels from "../Images/panels.PNG";
+import css from "../Images/css.png";
 
 
 export default class Projects extends Component{
@@ -42,7 +45,7 @@ export default class Projects extends Component{
                 </CardMenu>
                  </Card>
                  <Card shadow={5} style={{minwidth: '450', margin: 'auto'}}>
-                    <CardTitle>  <img src={clock} style={{height:"100px", width:"100px"}}/>Calculator</CardTitle>
+                    <CardTitle>  <img src={clock} style={{height:"100px", width:"100px"}}/>Clock</CardTitle>
                  <CardText>
                  <center>Html  CSS3  Javascript</center>
                 </CardText>
@@ -61,12 +64,12 @@ export default class Projects extends Component{
                     return (
                         <div className="projects-grid">
                         <Card shadow={5} style={{minwidth: '450', margin: 'auto'}}>
-                        <CardTitle>  <img src={Calculator} style={{height:"100px", width:"100px"}}/>Calculator</CardTitle>
+                        <CardTitle>  <img src={hover} style={{height:"100px", width:"100px"}}/>Mouse Move</CardTitle>
                      <CardText>
                      <center>Html  CSS3  Javascript</center>
                     </CardText>
                     <CardActions border>
-                   <a href="https://divyeshrana9775.github.io/Calculator/"><center>Website</center></a>
+                   <a href="https://divyeshrana9775.github.io/Mouse-Move-effect/"><center>Website</center></a>
                    
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>
@@ -74,12 +77,12 @@ export default class Projects extends Component{
                     </CardMenu>
                      </Card>
                      <Card shadow={5} style={{minwidth: '450', margin: 'auto'}}>
-                        <CardTitle>  <img src={Calculator} style={{height:"100px", width:"100px"}}/>Calculator</CardTitle>
+                        <CardTitle>  <img src={panels} style={{height:"100px", width:"100px"}}/>FlexPanels</CardTitle>
                      <CardText>
                      <center>Html  CSS3  Javascript</center>
                     </CardText>
                     <CardActions border>
-                   <a href="https://divyeshrana9775.github.io/Calculator/"><center>Website</center></a>
+                   <a href="https://divyeshrana9775.github.io/Flex-Panels-Image-Gallery/"><center>Website</center></a>
                    
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>
@@ -87,12 +90,12 @@ export default class Projects extends Component{
                     </CardMenu>
                      </Card>
                      <Card shadow={5} style={{minwidth: '450', margin: 'auto'}}>
-                        <CardTitle>  <img src={Calculator} style={{height:"100px", width:"100px"}}/>Calculator</CardTitle>
+                        <CardTitle>  <img src={css} style={{height:"100px", width:"100px"}}/>CSSvariableandJS</CardTitle>
                      <CardText>
                      <center>Html  CSS3  Javascript</center>
                     </CardText>
                     <CardActions border>
-                   <a href="https://divyeshrana9775.github.io/Calculator/"><center>Website</center></a>
+                   <a href="https://divyeshrana9775.github.io/CSSvariableandJS/"><center>Website</center></a>
                    
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>

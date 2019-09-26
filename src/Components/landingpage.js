@@ -31,6 +31,10 @@ export default class Landingpage extends Component{
                                 <a href="https://github.com/divyeshrana9775" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github" aria-hidden="true"/>
                                 </a>
+                                  {/*freecodecamp */}
+                                  <a href="mailto:divyeshrana9775@gmail.com?Subject=Hello%20again" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-google" aria-hidden="true"/>
+                                </a>
                                 
                             </div>
                         </div>

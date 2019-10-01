@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myprofile1234/static/css/main.64eacf0e.chunk.css",
+    "main.js": "/myprofile1234/static/js/main.135faaaf.chunk.js",
+    "main.js.map": "/myprofile1234/static/js/main.135faaaf.chunk.js.map",
+    "runtime~main.js": "/myprofile1234/static/js/runtime~main.a8d7b28d.js",
+    "runtime~main.js.map": "/myprofile1234/static/js/runtime~main.a8d7b28d.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/myprofile1234/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.f486e464.chunk.js": "/myprofile1234/static/js/2.f486e464.chunk.js",
+    "static/js/2.f486e464.chunk.js.map": "/myprofile1234/static/js/2.f486e464.chunk.js.map",
+    "index.html": "/myprofile1234/index.html",
+    "precache-manifest.6a1d498926a2a9ac1b03744932b0e758.js": "/myprofile1234/precache-manifest.6a1d498926a2a9ac1b03744932b0e758.js",
+    "service-worker.js": "/myprofile1234/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/myprofile1234/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.64eacf0e.chunk.css.map": "/myprofile1234/static/css/main.64eacf0e.chunk.css.map",
+    "static/media/calculator.PNG": "/myprofile1234/static/media/calculator.c0dedd04.PNG",
+    "static/media/clock.png": "/myprofile1234/static/media/clock.d275c33b.png",
+    "static/media/css.png": "/myprofile1234/static/media/css.8e756f88.png",
+    "static/media/drum.png": "/myprofile1234/static/media/drum.03fd9f4d.png",
+    "static/media/hover.png": "/myprofile1234/static/media/hover.b598598d.png",
+    "static/media/logo.png": "/myprofile1234/static/media/logo.91044413.png",
+    "static/media/panels.PNG": "/myprofile1234/static/media/panels.4500159e.PNG",
+    "static/media/photo.jpg": "/myprofile1234/static/media/photo.690ac70f.jpg"
+  }
+}
